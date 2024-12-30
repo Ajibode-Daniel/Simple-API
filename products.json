@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "price": 89.99
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "price": 29.99
+  },
+  {
+    "id": 4,
+    "name": "Portable Charger",
+    "price": 19.99
+  },
+  {
+    "name": "Wireless Keyboard",
+    "price": 35.99,
+    "id": 5
+  }
+]
